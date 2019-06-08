@@ -1,0 +1,16 @@
+﻿{
+  "Authentication": [
+    {
+      "Module": "Amazing",
+      "User": "Yeison",
+      "Password": "Rua",
+      "State": true
+    },
+    {
+      "Module": "Amazing",
+      "User": "Prueba",
+      "Password": "123",
+      "State": true
+    }
+  ]
+}

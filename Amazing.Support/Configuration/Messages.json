@@ -1,0 +1,16 @@
+﻿{
+  "Messages": [
+    {
+      "Code": 0,
+      "Value": "000",
+      "Text": "Acceso denegado",
+      "Type": 2
+    },
+    {
+      "Code": 1,
+      "Value": "001",
+      "Text": "Hay un error en el sistema, por favor comuníquese con el administrador",
+      "Type": 0
+    }
+  ]
+}
